@@ -1,4 +1,4 @@
-
+## Giri R (212223060068)
 # Receiver-Sensitivity
 # Optical Receiver Sensitivity Analysis
 
@@ -70,5 +70,20 @@ Your report should include:
   - BER analyzer output  
   - Eye diagram  
 - Discussion of differences between analytical and simulation results.  
+
+---
+
+## Tabulation 
+<img width="1207" height="1936" alt="image" src="https://github.com/user-attachments/assets/cc1e5ea3-5006-425c-849f-04ac0f814537" />
+
+---
+
+## Output
+<img width="1920" height="1080" alt="Screenshot 2026-03-16 204122" src="https://github.com/user-attachments/assets/ffb2957e-21b3-4baa-8044-e1bc96d2eaa0" />
+
+---
+
+## Result
+thus the reciever sensitivity is obtained and calculated
 
 ---
