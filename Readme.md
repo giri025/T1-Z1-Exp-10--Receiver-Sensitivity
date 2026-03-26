@@ -73,6 +73,9 @@ Your report should include:
 
 ---
 
+## DLOCK DIAGRAM 
+<img width="808" height="436" alt="image" src="https://github.com/user-attachments/assets/0f48de40-b3a6-40e1-9e7f-9f95b95d6ab5" />
+
 ## Tabulation 
 <img width="1207" height="1936" alt="image" src="https://github.com/user-attachments/assets/cc1e5ea3-5006-425c-849f-04ac0f814537" />
 
